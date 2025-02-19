@@ -1,12 +1,10 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Fast Scripts](fastscripts.tebex.io)
 
 - 🌱 I’m currently learning **React Framework**
 
 - 👨‍💻 All of my projects are available at [fastscripts.tebex.io](fastscripts.tebex.io)
-
-- 💬 Ask me about **vue**
 
 - 📫 How to reach me **f4st3rss@gmail.com**
 
