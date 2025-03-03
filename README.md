@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Fast Scripts](fastscripts.tebex.io)
 
-- 🌱 I’m currently learning **React Framework**
+- 🌱 I’m currently learning **Svelte**
 
 - 👨‍💻 All of my projects are available at [fastscripts.tebex.io](fastscripts.tebex.io)
 
