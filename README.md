@@ -1,10 +1,10 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Fast Scripts](fastscripts.tebex.io)
+- 🔭 I’m currently working on [F4 Studio](f4studio.tebex.io)
 
 - 🌱 I’m currently learning **Svelte**
 
-- 👨‍💻 All of my projects are available at [fastscripts.tebex.io](fastscripts.tebex.io)
+- 👨‍💻 All of my projects are available at [f4studio.tebex.io](f4studio.tebex.io)
 
 - 📫 How to reach me **f4st3rss@gmail.com**
 
